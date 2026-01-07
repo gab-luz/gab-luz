@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python, Flutter, NestJS**
 
-- 📫 How to reach me **gabluz_gh@riseup.net**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
